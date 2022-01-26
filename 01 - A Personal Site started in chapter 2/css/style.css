@@ -1,0 +1,28 @@
+*{
+margin: 1;
+padding: 1;
+}
+body {
+/* background-color: rgb(240, 187, 128); */
+background-image: url("/image/sky_grass.jpg");
+/* background-repeat: no-repeat;   */
+background-size: cover;
+/* text-align: center; */
+}
+#tag {
+margin-left: 5px;
+}
+.skill,
+.education {
+margin: 4px;
+/* margin-right: 5px; */
+}
+.center {
+display: block; 
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.details{
+    color: blueviolet;
+}
